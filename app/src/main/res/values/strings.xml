@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreateNewActivity</string>
+    <string name="pergunta">Insira um valor</string>
+    <string name="nova">Criar nova atividade</string>
+</resources>
